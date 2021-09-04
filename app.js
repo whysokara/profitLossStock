@@ -20,5 +20,3 @@ function calculateProfitAndLoss(initial, quantity, current) {
     console.log("No pain, No gain");
   }
 }
-
-calculateProfitAndLoss(10, 1, 10);
